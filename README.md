@@ -12,6 +12,7 @@ Enjoy and do not fill your brain useless bindings no more!
 If you want to add or develope more options,feel free to participate!
 
 Example Usage:
+
 1-Runned Code (It is working on online IDE's as well)
 
 2-Code asks you--Enter the name of the math symbol:
