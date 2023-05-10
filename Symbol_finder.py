@@ -38,9 +38,9 @@ def get_math_symbol(symbol_name):
     if symbol_name in symbols:
         return symbols[symbol_name]
     else:
-        print("Symbol not found")
+        print("Symbol not found in archive")
 
-symbol_name = input("Enter the name of the math symbol: ")
+symbol_name = input("Enter the name of the math symbol you want to find: ")
 symbol = get_math_symbol(symbol_name)
 if symbol:
     print(symbol)
