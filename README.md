@@ -21,4 +21,7 @@ Example Usage:
 
 4-Code gives you output as your symbol: ∫
 
+Symbol_finder1.py takes some symbols from char, and it may cause some problems for some old IDE's.So i made a quick-based vers2 named Symbol_finder2.py
+Pick which one is good for you and enjoy!
+
 
